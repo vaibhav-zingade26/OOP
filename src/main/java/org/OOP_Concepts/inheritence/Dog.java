@@ -14,9 +14,11 @@ public class Dog extends Animal{
         super.eat();
         System.out.println("Dog is chew his food");
     }
+    public void chew(int teeth){
+        System.out.println("with number of "+teeth);
+    }
 
     public void eat(){
         super.eat();
-
     }
 }
