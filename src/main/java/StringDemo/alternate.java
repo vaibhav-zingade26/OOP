@@ -2,7 +2,7 @@ package StringDemo;
 
 public class alternate {
     public static void main(String[] args) {
-        String str ="abXdRFGY";
+        String str ="AbcdRFGY";
         char [] c=str.toCharArray();
 
 
