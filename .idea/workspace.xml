@@ -5,38 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77ecbe5e-15d8-42cc-b738-99bd7687ec1b" name="Changes" comment="alternate">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Accenture/equalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Accenture/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/NumberProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/countOfCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/evenLengthWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/maximum_occurring_character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/printUniqueWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/problem4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/problem5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/revereseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/reverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/reverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/splitProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/sumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/swappingOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/usinghasset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/Problems/veeva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/String_Geeks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/ArrayEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/CoomonCharacterInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections_demo/collections_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/AllSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/CountCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/CountPunctuation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/CountVowelConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/DivideStringIntoEqualPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/changeCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/SmallerThanAnyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/missingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/removeDuplicateValueOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/specailCharacterCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/ascending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/ascending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringDemo/alternate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringDemo/alternate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,22 +54,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/intellij/java projects/OOP/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "20",
+    "onboarding.tips.debug.path": "D:/intellij/java projects/OOP/src/main/java/org/example/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Anagrams">
-    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.YouTubeProblems.Anagrams" />
+}]]></component>
+  <component name="RunManager" selected="Application.changeCase">
+    <configuration name="AllSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.AllSubsets" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringDemo.YouTubeProblems.*" />
+          <option name="PATTERN" value="StringDemo.StringJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.YouTubeProblems.ArrayEvenOdd" />
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.Anagram" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringDemo.YouTubeProblems.*" />
+          <option name="PATTERN" value="StringDemo.StringJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoomonCharacterInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.YouTubeProblems.CoomonCharacterInArray" />
+    <configuration name="CountVowelConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.CountVowelConsonant" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringDemo.YouTubeProblems.*" />
+          <option name="PATTERN" value="StringDemo.StringJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Accenture.main" />
+    <configuration name="DivideStringIntoEqualPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.DivideStringIntoEqualPart" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Accenture.*" />
+          <option name="PATTERN" value="StringDemo.StringJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="veeva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.Problems.veeva" />
+    <configuration name="changeCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.changeCase" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringDemo.Problems.*" />
+          <option name="PATTERN" value="StringDemo.StringJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Anagrams" />
-        <item itemvalue="Application.ArrayEvenOdd" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.CoomonCharacterInArray" />
-        <item itemvalue="Application.veeva" />
+        <item itemvalue="Application.changeCase" />
+        <item itemvalue="Application.AllSubsets" />
+        <item itemvalue="Application.DivideStringIntoEqualPart" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.CountVowelConsonant" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708627579727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="alternate">
+      <option name="closed" value="true" />
+      <created>1709828071677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709828071677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
