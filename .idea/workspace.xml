@@ -4,19 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77ecbe5e-15d8-42cc-b738-99bd7687ec1b" name="Changes" comment="alternate">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/AllSubsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/CountCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/CountPunctuation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/CountVowelConsonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/DivideStringIntoEqualPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/changeCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/SmallerThanAnyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/missingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/removeDuplicateValueOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/specailCharacterCount.java" afterDir="false" />
+    <list default="true" id="77ecbe5e-15d8-42cc-b738-99bd7687ec1b" name="Changes" comment="java programs">
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/DuplicateWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/Duplicatechar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/PrintHashSetUsingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/StringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/countOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/linearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/repeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/reverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/swapTheString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/ArmStrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/ReverseOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/countOfEachWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -54,19 +61,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "D:/intellij/java projects/OOP/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/intellij/java projects/OOP/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.changeCase">
-    <configuration name="AllSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.AllSubsets" />
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intellij\java projects\OOP\src\main\java\collections_demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PrintHashSetUsingIterator">
+    <configuration name="PrintHashSetUsingIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.PrintHashSetUsingIterator" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.Anagram" />
+    <configuration name="countOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.countOfCharacters" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountVowelConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.CountVowelConsonant" />
+    <configuration name="linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.linearSearch" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivideStringIntoEqualPart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.DivideStringIntoEqualPart" />
+    <configuration name="repeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.repeatingChar" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="changeCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.changeCase" />
+    <configuration name="swapTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringDemo.StringJava.swapTheString" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.changeCase" />
-        <item itemvalue="Application.AllSubsets" />
-        <item itemvalue="Application.DivideStringIntoEqualPart" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.CountVowelConsonant" />
+        <item itemvalue="Application.PrintHashSetUsingIterator" />
+        <item itemvalue="Application.repeatingChar" />
+        <item itemvalue="Application.linearSearch" />
+        <item itemvalue="Application.swapTheString" />
+        <item itemvalue="Application.countOfCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709828071677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java programs">
+      <option name="closed" value="true" />
+      <created>1709880141927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709880141927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java programs">
+      <option name="closed" value="true" />
+      <created>1709908194210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709908194210</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +209,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="alternate" />
-    <option name="LAST_COMMIT_MESSAGE" value="alternate" />
+    <MESSAGE value="java programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="java programs" />
   </component>
 </project>
