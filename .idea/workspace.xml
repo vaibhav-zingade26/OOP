@@ -5,19 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77ecbe5e-15d8-42cc-b738-99bd7687ec1b" name="Changes" comment="java programs">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/DuplicateWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/Duplicatechar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/PrintHashSetUsingIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/countOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/linearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/repeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/reverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/StringJava/swapTheString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/ArmStrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/ReverseOfWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringDemo/YouTubeProblems/countOfEachWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709908194210</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java programs">
+      <option name="closed" value="true" />
+      <created>1710061324488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710061324488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
