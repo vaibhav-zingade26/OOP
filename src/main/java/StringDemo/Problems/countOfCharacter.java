@@ -9,7 +9,7 @@ public class countOfCharacter {
                 count++;
             }
         }
-        System.out.println("nimber of characters are : "+count);
+        System.out.println("number of characters are : "+count);
     }
 
 
